@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using UnityEngine;
 
-public class zadanie_1 : MonoBehaviour
+public class zadanie_2 : MonoBehaviour
 {
     // Start is called before the first frame update
     public float speed = 1f;
